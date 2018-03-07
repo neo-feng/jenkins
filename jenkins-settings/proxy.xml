@@ -1,0 +1,5 @@
+<proxy>
+  <name>proxy.houston.hpecorp.net</name>
+  <port>8080</port>
+  <secretPassword>{AQAAABAAAAAQOGeRyBEM0AuzLLZnTIScX5C+YXsBB7zKzoVhkrk2xI8=}</secretPassword>
+</proxy>
